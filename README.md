@@ -1,3 +1,6 @@
+## Account
+- Personal account for work or research
+
 ## MyInfo
 
 - Master's student in Computer Science
